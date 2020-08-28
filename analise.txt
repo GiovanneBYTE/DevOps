@@ -1,0 +1,11 @@
+Analise 
+
+ inicialmente o software terá que ser baixado (download) no aparelho Android ou ios, logo em seguida para o cadastro o cliente/passageiro terá que
+ fazer um cadastro com seus dados ex: nome completo, CPF, número de telefone, data de nascimento, foto dos documentos. Para que quando for solicitado
+ uma viagem fique cadastrado no sistema que o mesmo fez a viagem, logo em seguida o cliente deve colocar os endereços se onde quer sair para onde irá,
+ para que isso ocorra de forma correta o aparelho do cliente tem que estar com o sistema de GPS ativado para a melhor precisão do embarque, quando o 
+ cliente fizer esses passos e colocar os endereços e confirmar que irá fazer a viagem, automaticamente o sistema irá pedir a forma de pagamento, para
+ que não ocorra divergência na forma de cobrança, o mais recomendado é o pagamento pelo app, pois é mais seguro e já é descontado diretamente do cartão,
+ logo após essa confirmação o sistema irá buscar nas proximidades do embarque algum veículo que esteja disponível para realizar a viagem, quando localizar
+ o veículo terá que aceitar fazer essa viagem, pois, tem muitos fatores que podem ocorrer como por exemplo lotação no veículo,então o veículo aceitando essa
+ viagem automaticamente ele será direcionado para o local onde o cliente esta, para realizar a viagem
