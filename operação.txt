@@ -1,0 +1,4 @@
+Operação
+
+para que isso ocorra de forma concreta, todos os dispositivos que estejam conectados com o software tem que estar com o GPS ativado, pois, desta forma
+o software tem como ter uma exatidão se o cliente e o veículo realmente fizeram a rota de maneira correta e juntos por estarem no mesmo caminho

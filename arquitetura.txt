@@ -1,0 +1,3 @@
+Arquitetura 
+
+O sistema vai ser feito em web e Principalmente para mobile
