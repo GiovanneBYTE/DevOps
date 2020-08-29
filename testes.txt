@@ -1,0 +1,4 @@
+Testes 
+
+O sitema será testado Clicando nos Botões e fazendo cadastros, fazendo pagamentos pelo app mobile e web e chamando uma corrida  por umas 200 vezes simultanes para ver como ele ira se sair diante de sobrecargas no sitema,
+e se ira notificar todas as chamadas para o motorista , sobrecarregaremos o sistema para testar até onde ele aguenta e corrigirmos os bugs 
